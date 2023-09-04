@@ -12,6 +12,7 @@ module.exports = {
         juan: '#6c8294',
         moro: '#edf3f8',
         subby: '#d2dbe3',
+        idan: '#1f2c38',
       },
     },
     fontfamily: {
